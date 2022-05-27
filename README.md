@@ -5,5 +5,5 @@
   
 ``` sh
   
-curl -s https://github.com/nenofetch/nenofetch.gpg | gpg --import
+curl -s https://github.com/nenofetch.gpg | gpg --import
   
